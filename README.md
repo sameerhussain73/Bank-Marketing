@@ -1,5 +1,7 @@
 Bank Marketing Campaign Analysis
+
 Project Description
+
 This repository contains the analysis and predictive modeling of a bank marketing campaign. The goal was to utilize machine learning to predict customer subscription rates to a term deposit, offering insights into customer behavior and effectiveness of the campaign.
 
 Dataset
