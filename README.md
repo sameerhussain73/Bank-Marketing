@@ -28,4 +28,6 @@ Tools and Technologies
   Scikit-learn: Preprocessing, clustering, and model evaluation.
 
 Usage
+
+
 Instructions for setting up, exploring the dataset, conducting EDA, and running the clustering model are included. Users can replicate the analysis, experiment with different parameters, and extend the model for further insights.
